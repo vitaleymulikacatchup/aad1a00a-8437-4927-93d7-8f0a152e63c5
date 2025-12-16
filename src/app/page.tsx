@@ -40,7 +40,8 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroBillboardRotatedCarousel
           title="Find Your Dream Car at Tello"
-          description="Discover premium new cars with unbeatable prices and exceptional service. Browse our exclusive inventory of quality vehicles in the USA."
+          description="Discover premium new cars with unbeatable prices and exceptional service. Browse our exclusive inventory of quality vehicles in 
+"
           tag="Premium Selection"
           tagIcon={Zap}
           buttons={[
